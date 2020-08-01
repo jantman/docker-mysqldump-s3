@@ -1,5 +1,7 @@
 # docker-mysqldump-s3
 
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
+
 Docker container to run mysqldump on a DB and sync results to S3. Usable as a scheduled job, i.e. an ECS task on a schedule.
 
 ## Environment Variables
